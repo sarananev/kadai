@@ -139,6 +139,12 @@ li {
     text-align: center;
   }
 }
+@media screen and (min-width:1600px) {
+  .feature {
+    background-position: center bottom 16%;
+  }
+}
+
 .feature-container {
   max-width: 1096px;
   display: flex;
